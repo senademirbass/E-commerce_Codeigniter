@@ -1,6 +1,6 @@
 # ELECTROKOU E-ticaret Sitesi Projesi
 
-Elektronik Cihaz Aksesuarları" e-ticaret sitesi, geliştirilmesi için PHP dilinin CodeIgniter çatısı kullanılarak oluşturulmuştur. Site, HTML, CSS ve JavaScript gibi web geliştirme teknolojileri ile oluşturulmuştur. Ayrıca, Microsoft Visual Studio Code (VSCode) entegre geliştirme ortamı (IDE) kullanılmıştır. 
+"Elektronik Cihaz Aksesuarları" e-ticaret sitesi, geliştirilmesi için PHP dilinin CodeIgniter çatısı kullanılarak oluşturulmuştur. Site, HTML, CSS ve JavaScript gibi web geliştirme teknolojileri ile oluşturulmuştur. Ayrıca, Microsoft Visual Studio Code (VSCode) entegre geliştirme ortamı (IDE) kullanılmıştır. 
 
 CodeIgniter, MVC (Model-View-Controller) mimarisine dayalı bir çatıdır ve web uygulamalarının hızlı bir şekilde geliştirilmesine olanak tanır. CodeIgniter, sunduğu kütüphaneler ve araçlar sayesinde web uygulaması geliştirmeyi kolaylaştırır. PHP dilinin esnekliği ve CodeIgniter'ın kolay kullanımı sayesinde, site geliştirilmesi hızlı ve verimli bir şekilde gerçekleştirilmiştir.
 
