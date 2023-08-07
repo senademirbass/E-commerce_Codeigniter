@@ -62,7 +62,7 @@ Eğer kullanıcının yazdığı yeni şifre ve yeni şifre tekrar kısımları 
 Kullanıcı başarılı bir şekilde şifresini değiştirirse bu alertle karşılaşır ve anasayfaya yönlendirilir
 
 
-#Ürün Düzenlemeleri
+# Ürün Düzenlemeleri
 
 •	Ürünler için 3 ayrı sayfa oluşturuldu. Anasayfada bulunan menü kısmına ve sliderdaki “Şimdi Satın Al” butonlarına tıklayarak kullanıcı ürün sayfalarına ulaşabilir. 
 
@@ -88,7 +88,7 @@ Sepetim butonuna tıklayan kullanıcı eğer sepetinde ürün yoksa bu şekilde 
 
 
 
-#Yönetici Paneli
+# Yönetici Paneli
 
 ![image](https://user-images.githubusercontent.com/83577247/236883613-048c9cda-2cc3-4f81-bd6c-205e4b03fbf0.png)
 Admin panelinin ilk hali bu şekildeydi. Veri tabanımda yönetim adlı bir tablo oluşturarak öncelikle sayfanın veritabanı bağlantısı yapıldı.
